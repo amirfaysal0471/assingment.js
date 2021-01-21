@@ -1,5 +1,5 @@
 
-
+//https://github.com/amirfaysal0471/assingment.js/blob/main/assingment.js
 
 
 //1.kilometerTometer
@@ -72,4 +72,3 @@ function hotelCost(n){
 
   // megaFriend
 
-  
